@@ -1,0 +1,6 @@
+- List the COntent of Folder - Done
+- Download the txt file from folder - Done
+- List the txt files inside the zip archive - Done
+- Download the txt file in the root of the Zip Archive - Done
+- List the content of folder inside the zip archive - Pending
+- Download the txt file from inside the Zip Archive/Folder - Pending
